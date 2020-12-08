@@ -17,7 +17,7 @@ def get_ips(name):
 
 argv.pop(0)
 n = len(argv)
-system("clear -x")
+system("cls||clear")
 for domain_name in argv:
     domain_name = domain_name.replace("https://", "")
     domain_name = domain_name.replace("http://", "")
