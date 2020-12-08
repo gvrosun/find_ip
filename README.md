@@ -4,15 +4,15 @@ This python script is used to find the 'ip address' for the given domain name or
 
 ### Usage:
 ```
-python3 find_ip.py domain_names ip_addresses
+**python3 find_ip.py** domain_names ip_addresses
 ```
 
 #### Example 1:
 ```
-python3 find_ip.py google.com yahoo.in
+**python3 find_ip.py** google.com yahoo.in
 ```
 
 #### Example 2:
 ```
-python3 find_ip.py google.com 8.8.8.8 127.0.0.1 facebook.com
+**python3 find_ip.py** google.com 8.8.8.8 127.0.0.1 facebook.com
 ```
