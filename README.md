@@ -2,7 +2,7 @@
 
 Usage:
 ```
-python3 find_ip.py domain_name
+python3 find_ip.py domain_names ip_addresses
 ```
 
 Example 1:
