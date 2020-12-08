@@ -1,4 +1,4 @@
-# Find ip
+## General info
 This python script is used to find the 'ip address' for the given domain name or finding domain_name for the given ip_address 
 
 Usage:
